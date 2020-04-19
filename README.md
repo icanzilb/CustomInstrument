@@ -10,6 +10,8 @@
 
 This should demonstrate the usage of the custom instrument.
 
+![](screen.png)
+
 To read in detail about the code go to:
 
 http://trycombine.com
