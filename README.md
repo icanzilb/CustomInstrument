@@ -10,7 +10,7 @@
 
 This should demonstrate the usage of the custom instrument.
 
-![](screen.png)
+![](https://github.com/icanzilb/CustomInstrument/raw/master/etc/screen.png)
 
 To read in detail about the code go to:
 
