@@ -14,7 +14,7 @@ This should demonstrate the usage of the custom instrument.
 
 To read in detail about the code go to:
 
-http://trycombine.com
+http://trycombine.com/posts/how-to-create-custom-instrument/
 
 # License
 
